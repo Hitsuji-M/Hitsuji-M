@@ -45,7 +45,7 @@ I'm a french developer currently studying computer science and engineering at **
 - erwann.masson@gmail.com / erwann.masson@edu.esiee.fr
 - [Github](https://github.com/Hitsuji-M)
 - [Linkedin](https://www.linkedin.com/in/erwann-masson-bb96861a7/)
-- Hitsuji#4382
+- Hitsuji#4382 (discord)
 
 <p align="center">
     <a style="font-size:12px" href="#top">Back to top of page</a>
