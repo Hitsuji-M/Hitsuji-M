@@ -36,10 +36,22 @@ I'm a french developer currently studying computer science and engineering at **
 - 🎮 [Echosight](https://github.com/Hitsuji-M/Echosight) An Unity game for my year-end project where the sound is your only ally
 
 
+### My goals
+- 📖 **Learn**
+  - [ ] C, cybersecurity and more with [TryHackMe](https://tryhackme.com/p/Hitsuji)
+  - [ ] Reinforce in different languages and fields  
+- 💡 **Projects**
+  - [ ] Finish my own website
+  - [ ] Website to help studentss in my school
+  - [ ] Isometric games
+  - [ ] Another discord bot
+
+
 ### About me 
 - 😊 AI and cybersecurity enthusiast
 - ⚙️ I code with `Python`, `C`, `C++`, `Java`, `SQL`, `C#` (learning)
 - ❤️ Teamwork and developing enjoyer. Also love reading and the most important, **the raclette !**
+
 
 ### Contact
 - erwann.masson@gmail.com / erwann.masson@edu.esiee.fr
