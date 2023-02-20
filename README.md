@@ -1,3 +1,4 @@
+<!---
 <div align="center">
     <img title="Me"
          alt="Picture of me"
@@ -20,6 +21,8 @@
         Erwann "Hitsuji" Masson
     </span>
 </div>
+
+--->
 <br>
 
 **Hello everyone, i'm Erwann !**
