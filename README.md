@@ -25,7 +25,7 @@
 --->
 <br>
 
-**Hello everyone, i'm Erwann !**
+<p align="center">**Hello everyone, i'm Erwann !**</p>
 I'm a french developer currently studying computer science and engineering at **[ESIEE Paris](https://www.esiee.fr/)** and also member of the **[Club*Nix](https://github.com/ClubNix)** an non-profit organization of the school to make discover or offering help in computer science and promoting the open-source 
 
 ---
