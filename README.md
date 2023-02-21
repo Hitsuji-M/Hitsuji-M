@@ -41,6 +41,7 @@ I'm a french developer currently studying computer science and engineering at **
   - [ ] C, cybersecurity and more with [TryHackMe](https://tryhackme.com/p/Hitsuji)
   - [ ] Reinforce in different languages and fields  
 - 💡 **Projects**
+  - [X] Continue Java chess project to make it better
   - [ ] Finish my own website
   - [ ] Website to help studentss in my school
   - [ ] Isometric games
