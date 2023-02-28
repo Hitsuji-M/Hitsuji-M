@@ -32,24 +32,25 @@ I'm a french developer currently studying computer science and engineering at **
 ---
 
 ### My projects
-- 🤖 [Josix](https://github.com/clubnix/josix) (formerly StatBot) a discord bot written in python for the [server](https://discord.gg/invite/PX7ceVqQkj) of the Club\*Nix
-- 🎮 [Echosight](https://github.com/Hitsuji-M/Echosight) An Unity game for my year-end project where the sound is your only ally
+- 🤖 [Josix](https://github.com/clubnix/josix) (formerly StatBot) a discord bot written in python for the [server](https://discord.gg/invite/PX7ceVqQkj) of the Club\*Nix.
+- 🎮 [Echosight](https://github.com/Hitsuji-M/Echosight) An Unity game for my year-end project where the sound is your only ally.
+- ♟️ [ChessFX](https://github.com/Hitsuji-M/ChessFX) My first (reworked) project in Java, a chess game.
 
 
 ### My goals
 - 📖 **Learn**
-  - [ ] C, cybersecurity and more with [TryHackMe](https://tryhackme.com/p/Hitsuji)
+  - [ ] Cybersecurity, network and more with [TryHackMe](https://tryhackme.com/p/Hitsuji)
   - [ ] Reinforce in different languages and fields  
 - 💡 **Projects**
   - [X] Continue Java chess project to make it better
   - [ ] Finish my own website
-  - [ ] Website to help studentss in my school
+  - [ ] Website to help students in my school
   - [ ] Isometric games
   - [ ] Another discord bot
 
 
 ### About me 
-- 😊 AI and cybersecurity enthusiast
+- 😊 AI, cybersecurity and more enthusiast
 - ⚙️ I code with `Python`, `C`, `C++`, `Java`, `SQL`, `C#` (learning)
 - ❤️ Teamwork and developing enjoyer. Also love reading and the most important, **the raclette !**
 
