@@ -43,7 +43,7 @@ I'm a french developer currently studying computer science and engineering at **
   - [ ] Reinforce in different languages and fields  
 - 💡 **Projects**
   - [X] Continue Java chess project to make it better
-  - [ ] Finish my own website
+  - [ ] Create my own website/Portfolio
   - [ ] Website to help students in my school
   - [ ] Isometric games
   - [ ] Another discord bot
