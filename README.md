@@ -40,11 +40,12 @@ I'm a french developer currently studying computer science and engineering at **
 ### My goals
 - 📖 **Learn**
   - [ ] Cybersecurity, network and more with [TryHackMe](https://tryhackme.com/p/Hitsuji)
-  - [ ] Reinforce in different languages and fields  
+  - [X] Reinforce in different languages and fields **(WIP)**
+  - [X] Train with Codingame and Leetcode **(WIP)**
 - 💡 **Projects**
   - [X] Continue Java chess project to make it better
   - [ ] Create my own website/Portfolio
-  - [ ] Website to help students in my school
+  - [X] Website to help students in my school **(WIP)**
   - [ ] Isometric games
   - [ ] Another discord bot
 
