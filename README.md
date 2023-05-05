@@ -42,12 +42,14 @@ I'm a french developer currently studying computer science and engineering at **
   - [ ] Cybersecurity, network and more with [TryHackMe](https://tryhackme.com/p/Hitsuji)
   - [X] Reinforce in different languages and fields **(WIP)**
   - [X] Train with Codingame and Leetcode **(WIP)**
+  - [X] Learn how NES games are made an the architecture of this console **(WIP)**
 - 💡 **Projects**
   - [X] Continue Java chess project to make it better
   - [ ] Create my own website/Portfolio
   - [X] Website to help students in my school **(WIP)**
   - [ ] Isometric games
   - [ ] Another discord bot
+  - [ ] Create my own NES game
 
 
 ### About me 
