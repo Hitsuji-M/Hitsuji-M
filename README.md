@@ -45,6 +45,7 @@ I'm a french developer currently studying computer science and engineering at **
   - [X] Learn how NES games are made an the architecture of this console **(WIP)**
 - 💡 **Projects**
   - [X] Continue Java chess project to make it better
+  - [X] Finish Josix, a discord bot for the Club\*Nix
   - [ ] Create my own website/Portfolio
   - [X] Website to help students in my school **(WIP)**
   - [ ] Isometric games
