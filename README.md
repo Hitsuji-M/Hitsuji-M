@@ -55,7 +55,7 @@ I'm a french developer currently studying computer science and engineering at **
 
 ### About me 
 - 😊 AI, cybersecurity and more enthusiast
-- ⚙️ I code with `Python`, `C`, `C++`, `Java`, `SQL`, `C#` (learning)
+- ⚙️ Using `Python`, `C`, `C++`, `Java`, `SQL`
 - ❤️ Teamwork and developing enjoyer. Also love reading and the most important, **the raclette !**
 
 
