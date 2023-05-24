@@ -40,8 +40,8 @@ I'm a french developer currently studying computer science and engineering at **
 ### My goals
 - 📖 **Learn**
   - [ ] Cybersecurity, network and more with [TryHackMe](https://tryhackme.com/p/Hitsuji)
-  - [X] Reinforce in different languages and fields **(WIP)**
-  - [X] Train with Codingame and Leetcode **(WIP)**
+  - [ ] Reinforce in different languages and fields **(WIP)**
+  - [ ] Train with Codingame and Leetcode **(WIP)**
   - [X] Learn how NES games are made an the architecture of this console **(WIP)**
 - 💡 **Projects**
   - [X] Continue Java chess project to make it better
