@@ -35,6 +35,7 @@ I'm a french developer and intern as a Software Engineer at Datadog Paris. Curre
 - 🤖 [Josix](https://github.com/clubnix/josix) (formerly StatBot) a discord bot written in python for the [server](https://discord.gg/invite/PX7ceVqQkj) of the Club\*Nix.
 - 🎮 [Echosight](https://github.com/Hitsuji-M/Echosight) An Unity game for my year-end project where the sound is your only ally.
 - ♟️ [ChessFX](https://github.com/Hitsuji-M/ChessFX) My first (reworked) project in Java, a chess game.
+- 🧩 [CTFDpy](https://github.com/CTFDpy/CTFDpy) A Python wrapper around the CTFd API with built-in types
 
 
 ### My goals
@@ -46,6 +47,7 @@ I'm a french developer and intern as a Software Engineer at Datadog Paris. Curre
 - 💡 **Projects**
   - [X] Continue Java chess project to make it better
   - [X] Finish Josix, a discord bot for the Club\*Nix
+  - [X] Wrapper for CTFd API **(API)**
   - [ ] Create my own website/Portfolio
   - [ ] Another discord bot
   - [ ] Create my own NES game
