@@ -47,7 +47,7 @@ I'm a french developer and intern as a Software Engineer at Datadog Paris. Curre
 - 💡 **Projects**
   - [X] Continue Java chess project to make it better
   - [X] Finish Josix, a discord bot for the Club\*Nix
-  - [X] Wrapper for CTFd API **(API)**
+  - [X] Wrapper for CTFd API **(WIP)**
   - [ ] Create my own website/Portfolio
   - [ ] Another discord bot
   - [ ] Create my own NES game
