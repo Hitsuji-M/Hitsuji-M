@@ -55,7 +55,7 @@ I'm a french developer and intern as a Software Engineer at Datadog Paris. Curre
 
 ### About me 
 - 😊 AI, cybersecurity and more enthusiast
-- ⚙️ Using `Python`, `C`, `C++`, `Java`, `SQL`
+- ⚙️ Using `Python`, `C`, `C++`, `Java`, `SQL`, `Go`
 - ❤️ Teamwork and developing enjoyer. Also love reading and the most important, **the raclette !**
 
 
