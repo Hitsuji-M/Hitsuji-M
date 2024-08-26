@@ -60,7 +60,7 @@ I'm a french developer and intern as a Software Engineer at Datadog Paris. Curre
 
 
 ### Contact
-- erwann.masson@gmail.com / erwann.masson@edu.esiee.fr
+- erwann.masson@gmail.com
 - [Github](https://github.com/Hitsuji-M)
 - [Linkedin](https://www.linkedin.com/in/erwann-masson-bb96861a7/)
 - Discord : hitsuji_m / Hitsuji#4382
