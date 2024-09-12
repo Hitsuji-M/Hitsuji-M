@@ -27,7 +27,7 @@
 
 <p align="center" style="font-weight:bold">Hello everyone, i'm Erwann !</p>
 
-I'm a french developer and Software Engineer Datadog Paris. Currently I'm studying computer science and engineering at **[ESIEE Paris](https://www.esiee.fr/)** and I'm also a proud member of the **[Club*Nix](https://github.com/ClubNix)** an non-profit organization of the school to make discover or offering help in computer science and promoting the open-source 
+I'm a french developer and Software Engineer Datadog Paris. I'm also a proud member of the **[Club*Nix](https://github.com/ClubNix)** an non-profit organization of the school to make discover or offering help in computer science and promoting the open-source 
 
 ---
 
