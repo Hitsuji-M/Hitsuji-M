@@ -41,11 +41,8 @@ I'm a french developer and Software Engineer Datadog Paris. Currently I'm studyi
 ### My goals
 - 📖 **Learn**
   - [ ] Cybersecurity, network and more with [TryHackMe](https://tryhackme.com/p/Hitsuji)
-  - [ ] Reinforce in different languages and fields **(WIP)**
-  - [ ] Train with Codingame, Leetcode, HackerRank
   - [X] Learn how NES games are made an the architecture of this console **(WIP)**
 - 💡 **Projects**
-  - [X] Continue Java chess project to make it better
   - [X] Finish Josix, a discord bot for the Club\*Nix
   - [X] Wrapper for CTFd API **(WIP)**
   - [ ] Create my own website/Portfolio
@@ -56,7 +53,7 @@ I'm a french developer and Software Engineer Datadog Paris. Currently I'm studyi
 ### About me 
 - 😊 AI, cybersecurity and more enthusiast
 - ⚙️ Using `Python`, `C`, `C++`, `Java`, `SQL`, `Go`
-- ❤️ Teamwork and developing enjoyer. Also love reading and the most important, **the raclette !**
+- ❤️ I love dev & teamwork, but the most important is, **the raclette !**
 
 
 ### Contact
