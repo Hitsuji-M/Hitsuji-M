@@ -40,12 +40,10 @@ I'm a french developer and Software Engineer Datadog Paris. I'm also a proud mem
 
 ### My goals
 - 📖 **Learn**
-  - [ ] Cybersecurity, network and more with [TryHackMe](https://tryhackme.com/p/Hitsuji)
   - [X] Learn how NES games are made an the architecture of this console **(WIP)**
 - 💡 **Projects**
   - [X] Finish Josix, a discord bot for the Club\*Nix
   - [X] Wrapper for CTFd API **(WIP)**
-  - [ ] Create my own website/Portfolio
   - [ ] Another discord bot
   - [ ] Create my own NES game
 
